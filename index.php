@@ -18,9 +18,26 @@
         <div class="content">
           <nav class="modules">
             <div class="module green">
-              <h3>Módulo 01</h3>
+              <h3>Básico</h3>
               <ul class="green">
-                <li><a href="exercises.php?dir=teste&file=teste">Exercício A</a></li>
+                <li><a href="exercises.php?dir=basic&file=hello">Olá PHP</a></li>
+                <li><a href="exercises.php?dir=basic&file=html">Integração HTML</a></li>
+                <li><a href="exercises.php?dir=basic&file=css">Integração CSS</a></li>
+                <li><a href="exercises.php?dir=basic&file=comments">Comentários PHP</a></li>
+                <li><a href="exercises.php?dir=basic&file=challenge">Desafio PHP</a></li>
+              </ul>
+            </div>
+            <div class="module red">
+              <h3>Básico</h3>
+              <ul class="red">
+                <li><a href="exercises.php?dir=types&file=int">Tipo Inteiro</a></li>
+                <li><a href="exercises.php?dir=types&file=float">Tipo Float</a></li>
+                <li><a href="exercises.php?dir=types&file=arithmetic">Operações Aritméticas</a></li>
+                <li><a href="exercises.php?dir=types&file=challenge_precedence">Desafio Precedência</a></li>
+                <li><a href="exercises.php?dir=types&file=string">Tipo String</a></li>
+                <li><a href="exercises.php?dir=types&file=challenge_string">Desafio String</a></li>
+                <li><a href="exercises.php?dir=types&file=booleano">Tipo Booleano</a></li>
+                <li><a href="exercises.php?dir=types&file=conversions">Conversões</a></li>
               </ul>
             </div>
           </nav>
