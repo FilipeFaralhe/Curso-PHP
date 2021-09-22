@@ -28,7 +28,7 @@
               </ul>
             </div>
             <div class="module red">
-              <h3>Básico</h3>
+              <h3>Tipos</h3>
               <ul class="red">
                 <li><a href="exercises.php?dir=types&file=int">Tipo Inteiro</a></li>
                 <li><a href="exercises.php?dir=types&file=float">Tipo Float</a></li>
@@ -38,6 +38,19 @@
                 <li><a href="exercises.php?dir=types&file=challenge_string">Desafio String</a></li>
                 <li><a href="exercises.php?dir=types&file=booleano">Tipo Booleano</a></li>
                 <li><a href="exercises.php?dir=types&file=conversions">Conversões</a></li>
+              </ul>
+            </div>
+            <div class="module purple">
+              <h3>Variáveis</h3>
+              <ul class="purple">
+                <li><a href="exercises.php?dir=variables&file=basic">Variáveis</a></li>
+                <li><a href="exercises.php?dir=variables&file=challenge_equation">Desafio Equação</a></li>
+                <li><a href="exercises.php?dir=variables&file=assignment">Atribuição</a></li>
+                <li><a href="exercises.php?dir=variables&file=interpolation">Interpolação</a></li>
+                <li><a href="exercises.php?dir=variables&file=variables_variables">Variáveis Variáveis</a></li>
+                <li><a href="exercises.php?dir=variables&file=challenge_variables">Desafio Variáveis</a></li>
+                <li><a href="exercises.php?dir=variables&file=value_reference">Valor VS Referência</a></li>
+                <li><a href="exercises.php?dir=variables&file=constant">Constante</a></li>
               </ul>
             </div>
           </nav>

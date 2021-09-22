@@ -10,5 +10,5 @@
 // Encontra a primeiro ocorrência e retorna a posição dela, nessa caso 0 7 sera retornado
 echo strpos('!AbcaBcabc', 'abc'), '<br>';
 
-// Econtra a primeira ocorrência ignorando o case-insensitive, retornando 1
-echo stripos('!AbcaBcabc', ucfirst('abc'));
+// Encontra a primeira ocorrência ignorando o case-insensitive, retornando 1
+echo stripos('!AbcaBcabc', 'abc');

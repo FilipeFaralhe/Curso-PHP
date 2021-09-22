@@ -23,5 +23,5 @@ echo 4 ** 2, '<br>'; // 4 elevado a 2 = 16
 echo '<p>Precedência</p>';
 echo 2 + 3 * 4, '<br>'; // 14
 echo (2 + 3) * 4, '<br>'; // 20
-echo 2 + 3 * 4 ** 2, '<br>'; // 34
+echo 2 + 3 * 4 ** 2, '<br>'; // 50
 echo ((2 + 3) * 4) ** 2, '<br>'; // 400
