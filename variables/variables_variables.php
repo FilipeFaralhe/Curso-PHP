@@ -18,4 +18,4 @@ echo '<br>';
 $epa = 'opa';
 $opa = 'vish';
 $vish = 'eita';
-echo "$epa {$$epa} {$$$epa}";
+echo "$epa {$$epa} {$$$opa}";

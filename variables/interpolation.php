@@ -4,7 +4,7 @@
 $numero = 10;
 echo $numero;
 echo '<br> $numero'; // Não interpreta $numero como uma variável
-echo "<br> $numero"; // Interpreta $numero como uma variável, mas somente ela não aceitando somos e derivados
+echo "<br> $numero"; // Interpreta $numero como uma variável, mas ela não aceita somas e derivados
 
 $texto = "A sua nota é: $numero";
 echo "<br>$texto";

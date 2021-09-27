@@ -7,8 +7,8 @@
 */
 define('TAXA_DE_JUROS', 5.9);
 echo '<br>' . TAXA_DE_JUROS . '!';
-
 // TAXA_DE_JUROS = 2; Erro! pois é um constante e o valor não pode ser modificado
+
 const NOVA_TAXA = 2.5;
 echo '<br>' . NOVA_TAXA;
 

@@ -47,5 +47,5 @@ echo '<br>' . $texto;
 
 /*$variavelInexistente = 'Valor existente';*/
 /*echo '<br>' .  $variavelInexistente;*/
-$valor = $variavelInexistente ??'valor default'; // Se a variável não existir, imprime 'valor default'
+$valor = $variavelInexistente ?? 'valor default'; // Se a variável não existir, imprime 'valor default'
 echo '<br>' . $valor;

@@ -18,7 +18,7 @@
         <div class="content">
           <nav class="modules">
             <div class="module green">
-              <h3>Básico</h3>
+              <h3>1. Básico</h3>
               <ul class="green">
                 <li><a href="exercises.php?dir=basic&file=hello">Olá PHP</a></li>
                 <li><a href="exercises.php?dir=basic&file=html">Integração HTML</a></li>
@@ -28,7 +28,7 @@
               </ul>
             </div>
             <div class="module red">
-              <h3>Tipos</h3>
+              <h3>2. Tipos</h3>
               <ul class="red">
                 <li><a href="exercises.php?dir=types&file=int">Tipo Inteiro</a></li>
                 <li><a href="exercises.php?dir=types&file=float">Tipo Float</a></li>
@@ -41,7 +41,7 @@
               </ul>
             </div>
             <div class="module purple">
-              <h3>Variáveis</h3>
+              <h3>3. Variáveis</h3>
               <ul class="purple">
                 <li><a href="exercises.php?dir=variables&file=basic">Variáveis</a></li>
                 <li><a href="exercises.php?dir=variables&file=challenge_equation">Desafio Equação</a></li>
@@ -51,6 +51,19 @@
                 <li><a href="exercises.php?dir=variables&file=challenge_variables">Desafio Variáveis</a></li>
                 <li><a href="exercises.php?dir=variables&file=value_reference">Valor VS Referência</a></li>
                 <li><a href="exercises.php?dir=variables&file=constant">Constante</a></li>
+              </ul>
+            </div>
+            <div class="module dark-grey">
+              <h3>4. Controle</h3>
+              <ul class="dark-grey">
+                <li><a href="exercises.php?dir=control&file=if_else">IF ELSE</a></li>
+                <li><a href="exercises.php?dir=control&file=relational_operators">Operadores Relacionais</a></li>
+                <li><a href="exercises.php?dir=control&file=challenge_pi">Desafio PI</a></li>
+                <li><a href="exercises.php?dir=control&file=logical_operators">Operadores Lógicos</a></li>
+                <li><a href="exercises.php?dir=control&file=challenge_logical_operators">Desafio Operadores Lógicos</a></li>
+                <li><a href="exercises.php?dir=control&file=ternary_operator">Operador Ternário</a></li>
+                <li><a href="exercises.php?dir=control&file=switch">switch</a></li>
+                <li><a href="exercises.php?dir=control&file=challenge_switch">Desafio Switch</a></li>
               </ul>
             </div>
           </nav>
