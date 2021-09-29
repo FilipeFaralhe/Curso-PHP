@@ -66,6 +66,22 @@
                 <li><a href="exercises.php?dir=control&file=challenge_switch">Desafio Switch</a></li>
               </ul>
             </div>
+            <div class="module orange">
+              <h3>5. Array</h3>
+              <ul class="orange">
+                <li><a href="exercises.php?dir=array&file=basic">Array</a></li>
+                <li><a href="exercises.php?dir=array&file=map">Mapa Array</a></li>
+                <li><a href="exercises.php?dir=array&file=challenge_index">Desafio Index</a></li>
+                <li><a href="exercises.php?dir=array&file=challenge_months">Desafio Meses</a></li>
+                <li><a href="exercises.php?dir=array&file=Operation">Operação com Array</a></li>
+                <li><a href="exercises.php?dir=array&file=challenge_sort">Desafio Sorteio</a></li>
+                <li><a href="exercises.php?dir=array&file=multi">Array Multidimensional</a></li>
+                <li><a href="exercises.php?dir=array&file=array_constants">Array Constantes</a></li>
+                <li><a href="exercises.php?dir=array&file=get">Usando $_GET</a></li>
+                <li><a href="exercises.php?dir=array&file=post">Usando $_POST</a></li>
+                <li><a href="exercises.php?dir=array&file=array_comparison">Array Comparação</a></li>
+              </ul>
+            </div>
           </nav>
         </div>
       </main>

@@ -56,7 +56,7 @@ var_dump(false or false);
 echo '<br>';
 
 echo "<p id='and'>Tabela Verdade 'XOR' (OU Exclusivo)</p><hr>";
-var_dump(true xor true); // Pode-se der somente um true
+var_dump(true xor true); // Pode-se ter somente um true
 echo '<br>';
 var_dump(true xor false);
 echo '<br>';

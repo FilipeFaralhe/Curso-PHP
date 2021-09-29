@@ -22,7 +22,7 @@ var_dump( 1 != 1);// false
 echo '6 <br>';
 var_dump(1 == '1'); // true
 echo '7 <br>';
-var_dump(1 === '1'); //true, tres iguais compraram valores estritamente iguais, sendo em valores até em tipos
+var_dump(1 === '1'); //false, tres iguais compraram valores estritamente iguais, sendo em valores até em tipos
 echo '8 <br>';
 var_dump(1 != '1'); //false, resulta a false pq eles não são diferentes em valores
 echo '9 <br>';
