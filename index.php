@@ -82,6 +82,19 @@
                 <li><a href="exercises.php?dir=array&file=array_comparison">Array Comparação</a></li>
               </ul>
             </div>
+            <div class="module yellow">
+              <h3>6. Repetições</h3>
+              <ul class="yellow">
+                <li><a href="exercises.php?dir=repetitions&file=for">For</a></li>
+                <li><a href="exercises.php?dir=repetitions&file=challenge_for">Desfio For</a></li>
+                <li><a href="exercises.php?dir=repetitions&file=foreach">Foreach</a></li>
+                <li><a href="exercises.php?dir=repetitions&file=break_continue">Break e Continue</a></li>
+                <li><a href="exercises.php?dir=repetitions&file=challenge_print">Desafio impressão</a></li>
+                <li><a href="exercises.php?dir=repetitions&file=while">While/Do While</a></li>
+                <li><a href="exercises.php?dir=repetitions&file=challenge_table">Desafio tabela</a></li>
+                <li><a href="exercises.php?dir=repetitions&file=challenge_table2">Desafio tabela 2</a></li>
+              </ul>
+            </div>
           </nav>
         </div>
       </main>
