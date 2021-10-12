@@ -95,6 +95,23 @@
                 <li><a href="exercises.php?dir=repetitions&file=challenge_table2">Desafio tabela 2</a></li>
               </ul>
             </div>
+            <div class="module dark-blue">
+              <h3>7. Funções</h3>
+              <ul class="dark-blue">
+                <li><a href="exercises.php?dir=functions&file=scope">Função e Escopo</a></li>
+                <li><a href="exercises.php?dir=functions&file=args_return">Argumentos e retorno</a></li>
+                <li><a href="exercises.php?dir=functions&file=challenge_palindrome">Desafio Palíndromo</a></li>
+                <li><a href="exercises.php?dir=functions&file=args_variables">Argumentos Variáveis</a></li>
+                <li><a href="exercises.php?dir=functions&file=args_pattern">Argumentos Padrões</a></li>
+                <li><a href="exercises.php?dir=functions&file=using_types">Declarando Tipos</a></li>
+                <li><a href="exercises.php?dir=functions&file=anonymous_functions">Funções Anonimas</a></li>
+                <li><a href="exercises.php?dir=functions&file=closure_callable">Closure Callable</a></li>
+                <li><a href="exercises.php?dir=functions&file=recursion">Recursividade</a></li>
+                <li><a href="exercises.php?dir=functions&file=challenge_recursion">Desafio Recursão</a></li>
+                <li><a href="exercises.php?dir=functions&file=return_function">Retornando Função</a></li>
+                <li><a href="exercises.php?dir=functions&file=map_filter">Map e Filter</a></li>
+              </ul>
+            </div>
           </nav>
         </div>
       </main>
