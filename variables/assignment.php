@@ -42,7 +42,7 @@ $texto = 'Esse é um texto';
 echo '<br>' . $texto;
 $texto = $texto . ' qualquer';
 echo '<br>' . $texto;
-$texto .=' de verdade';
+$texto .= ' de verdade';
 echo '<br>' . $texto;
 
 /*$variavelInexistente = 'Valor existente';*/

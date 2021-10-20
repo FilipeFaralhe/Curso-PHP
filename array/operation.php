@@ -18,7 +18,6 @@ $dados2['endereço'] = "Rua A"; // Adiciona de forma manual um elemento no array
   Ao juntar dois arrays, obtemos um conflito de chaves "nome",
   o php vai pegar valor que esta mais a esquerda neste caso seria o dados1
 */
-
 $dadosCompletos = $dados1 + $dados2;
 
 print_r($dadosCompletos);

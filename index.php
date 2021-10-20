@@ -112,6 +112,25 @@
                 <li><a href="exercises.php?dir=functions&file=map_filter">Map e Filter</a></li>
               </ul>
             </div>
+            <div class="module black">
+              <h3>7. Paradigma O.O</h3>
+              <ul class="black">
+                <li><a href="exercises.php?dir=class_objects&file=class">Primeira Classe</a></li>
+                <li><a href="exercises.php?dir=class_objects&file=challenge_class_date">Desafio Data</a></li>
+                <li><a href="exercises.php?dir=class_objects&file=constructor_destructor">Construtor e Destrutor</a></li>
+                <li><a href="exercises.php?dir=class_objects&file=heritage">Herança</a></li>
+                <li><a href="exercises.php?dir=class_objects&file=visibility">Visibilidade</a></li>
+                <li><a href="exercises.php?dir=class_objects&file=static">Membros Estáticos</a></li>
+                <li><a href="exercises.php?dir=class_objects&file=interface">Interface</a></li>
+                <li><a href="exercises.php?dir=class_objects&file=abstract">Classe Abstrata</a></li>
+                <li><a href="exercises.php?dir=class_objects&file=challenge_errors">Desafio erros</a></li>
+                <li><a href="exercises.php?dir=class_objects&file=final">Modificador Final</a></li>
+                <li><a href="exercises.php?dir=class_objects&file=traits_01">Traits #01</a></li>
+                <li><a href="exercises.php?dir=class_objects&file=traits_02">Traits #02</a></li>
+                <li><a href="exercises.php?dir=class_objects&file=magic_methods">Métodos Mágicos</a></li>
+                <li><a href="exercises.php?dir=class_objects&file=polymorphism">Polimorfismo</a></li>
+              </ul>
+            </div>
           </nav>
         </div>
       </main>

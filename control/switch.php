@@ -18,9 +18,9 @@ if($categoria === 'Luxo') {
   $carro = 'Mobi';
   $preco = 33000;
 }
-//Formatando a variável preco com number_format(quantidadeDeDecimal, separadorDeDecimal, separadorDeMilhares)
+//Formatando a variável preco com number_format(variável, quantidadeDeDecimal, separadorDeDecimal, separadorDeMilhares)
 $precoFormatado = number_format($preco, 2, ',', '.');
-echo "<p>Carro: $carro<br>Preço: R$ $precoFormatado</p>";
+echo "<p>Carro: $carro <br> Preço: R$ $precoFormatado</p>";
 
 
 // Refatorando em Switch case

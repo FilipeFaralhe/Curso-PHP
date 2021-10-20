@@ -10,8 +10,10 @@ echo $variavel;
 */
 $variavelValor = $variavel;
 echo "<br> $variavelValor ";
+echo "<br> $variavel";
 $variavelValor = "Novo valor";
-echo "$variavelValor";
+echo "<br> $variavelValor";
+echo "<br> $variavel";
 
 // Atribuição por Referência
 /*

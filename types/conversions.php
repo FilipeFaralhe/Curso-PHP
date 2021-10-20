@@ -32,8 +32,8 @@ var_dump("3" + 2);
 echo '<br>';
 var_dump("3" . 2); // Retorna 32, pois o PHP entende que é uma concatenação
 
-// is_string retorna true se a s string for inteiro e false caso não seja, retorna true por conta da concatenação
-echo '<br>', is_string('3' . 2);
+// is_string retorna true se a s string for inteiro e false caso não seja
+echo '<br>', is_string('3' . 2); // Retorna true por conta da concatenação
 
 echo '<br>', is_string('3' + 2); // Retorna false por ser uma soma
 

@@ -23,10 +23,9 @@ define('NOVISSIMA_TAXA', $valorVariavel);
 echo '<br>' . NOVISSIMA_TAXA;
 
 // ALGUMAS CONSTANTES
-
 echo '<br>' . PHP_VERSION;
 echo '<br>' . PHP_INT_MAX;
 
-echo '<br> Linha: ' . __LINE__; // constante de começa com underline + underline
+echo '<br> Linha: ' . __LINE__; // constante que começa com underline + underline
 echo '<br> Qual arquivo eu estou: ' . __FILE__; // Mostra em que arquivo você está
 echo '<br> Qual diretório eu estou: ' . __DIR__; // Mostra em qual diretório você está

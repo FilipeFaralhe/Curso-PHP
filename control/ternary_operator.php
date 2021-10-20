@@ -12,8 +12,8 @@ if ($idade >= 18) {
 
 echo "$status<br>";
 
-        // Expressão            Verdadeiro                    Falso
-$status = $idade >= 18 ? $status = 'Maior de idade' :  $status = 'Menor de idade';
+        // Expressão         Verdadeiro           Falso
+$status = $idade >= 18 ? 'Maior de idade' : 'Menor de idade';
 
 echo "$status<br>";
 

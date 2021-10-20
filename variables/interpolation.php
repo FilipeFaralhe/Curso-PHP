@@ -7,7 +7,7 @@ echo '<br> $numero'; // Não interpreta $numero como uma variável
 echo "<br> $numero"; // Interpreta $numero como uma variável, mas ela não aceita somas e derivados
 
 $texto = "A sua nota é: $numero";
-echo "<br>$texto";
+echo "<br> $texto";
 
 $objeto = 'caneta';
 // echo "<br>Eu tenho 5 $objetos"; erro pois não existe a variável objetos

@@ -20,7 +20,7 @@ echo '<br>';
 
 unset($soma);
 echo isset($soma);// retorna false, pois houve um unset na variável
-var_dump($soma); // falar que a variável soma é nula, pois ela esta como unset
+var_dump($soma); // fala que a variável soma é nula, pois ela esta como unset
 
 /*
   Aqui vemos um exemplo de linguagem fracamente tipada, pois não defini nenhum tipo para
@@ -35,7 +35,7 @@ echo '<br>' . $variavel;
 // Nomes de variável
 $var = 'valida';
 $var2 = 'valida';
-$VariaveisELegal = 'valido'; // Recomendado
+$variaveisELegal = 'valido'; // Recomendado
 $VAR3 = 'valida';
 $_var_4 = 'valida';
 $vâr5 = 'valida'; // Evitar!
