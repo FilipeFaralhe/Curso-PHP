@@ -131,6 +131,13 @@
                 <li><a href="exercises.php?dir=class_objects&file=polymorphism">Polimorfismo</a></li>
               </ul>
             </div>
+              <div class="module light-blue ">
+              <h3>8. Includes</h3>
+              <ul class="light-blue ">
+                  <li><a href="exercises.php?dir=includes&file=include">Include</a></li>
+                  <li><a href="exercises.php?dir=includes&file=include_function">Include em função</a></li>
+              </ul>
+            </div>
           </nav>
         </div>
       </main>
