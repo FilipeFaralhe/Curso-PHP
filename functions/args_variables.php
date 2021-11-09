@@ -39,7 +39,7 @@ function numeros(...$num) {
 $array = [6, 7, 8];
 /*
   spread faz com que substitua o array pelo conteúdo,
-  ao invés de mandar o array inteiro, era mandar 6, 7, 8
+  ao invés de mandar o array inteiro, irá mandar 6, 7, 8
 */
 echo '<br>' . numeros(...$array);
 

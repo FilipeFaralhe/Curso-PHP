@@ -136,6 +136,7 @@
               <ul class="light-blue ">
                   <li><a href="exercises.php?dir=includes&file=include">Include</a></li>
                   <li><a href="exercises.php?dir=includes&file=include_function">Include em função</a></li>
+                  <li><a href="exercises.php?dir=includes&file=include_require">Include VS Require</a></li>
               </ul>
             </div>
           </nav>
