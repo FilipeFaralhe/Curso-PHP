@@ -231,6 +231,16 @@ div.module.light-blue > h3 {
   background: #00a8ff;
 }
 
+div.module > ul.energo {
+    border: 1px solid #2f3542;
+}
+
+div.module.energo > h3 {
+    background: #2f3542;
+}
+
+
+
 
 @media(max-width: 1080px) {
   html {

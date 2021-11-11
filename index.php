@@ -131,12 +131,20 @@
                 <li><a href="exercises.php?dir=class_objects&file=polymorphism">Polimorfismo</a></li>
               </ul>
             </div>
-              <div class="module light-blue ">
+            <div class="module light-blue ">
               <h3>8. Includes</h3>
               <ul class="light-blue ">
                   <li><a href="exercises.php?dir=includes&file=include">Include</a></li>
                   <li><a href="exercises.php?dir=includes&file=include_function">Include em função</a></li>
                   <li><a href="exercises.php?dir=includes&file=include_require">Include VS Require</a></li>
+                  <li><a href="exercises.php?dir=includes&file=require_return">Require VS Return</a></li>
+                  <li><a href="exercises.php?dir=includes&file=include_once_and_require_once">Include_once & Require_once</a></li>
+              </ul>
+            </div>
+            <div class="module energos">
+              <h3>9. Namespace</h3>
+              <ul class="energos">
+                  <li><a href="exercises.php?dir=namespace&file=basic">Exemplo Básico</a></li>
               </ul>
             </div>
           </nav>
