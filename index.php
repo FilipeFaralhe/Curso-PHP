@@ -113,7 +113,7 @@
               </ul>
             </div>
             <div class="module black">
-              <h3>7. Paradigma O.O</h3>
+              <h3>8. Paradigma O.O</h3>
               <ul class="black">
                 <li><a href="exercises.php?dir=class_objects&file=class">Primeira Classe</a></li>
                 <li><a href="exercises.php?dir=class_objects&file=challenge_class_date">Desafio Data</a></li>
@@ -132,7 +132,7 @@
               </ul>
             </div>
             <div class="module light-blue ">
-              <h3>8. Includes</h3>
+              <h3>9. Includes</h3>
               <ul class="light-blue ">
                   <li><a href="exercises.php?dir=includes&file=include">Include</a></li>
                   <li><a href="exercises.php?dir=includes&file=include_function">Include em função</a></li>
@@ -142,9 +142,16 @@
               </ul>
             </div>
             <div class="module energos">
-              <h3>9. Namespace</h3>
+              <h3>10. Namespace</h3>
               <ul class="energos">
                   <li><a href="exercises.php?dir=namespace&file=basic">Exemplo Básico</a></li>
+              </ul>
+            </div>
+            <div class="module energos">
+              <h3>11. Sessões e Cookies</h3>
+              <ul class="energos">
+                <li><a href="exercises.php?dir=section&file=basic_section">Básico de sessões</a></li>
+                <li><a href="exercises.php?dir=section&file=basic_section_change">Básico de alterar sessões</a></li>
               </ul>
             </div>
           </nav>
