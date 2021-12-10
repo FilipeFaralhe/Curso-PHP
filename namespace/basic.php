@@ -1,4 +1,6 @@
-<?php namespace contexto; ?>
+<?php
+    namespace contexto;
+?>
 
 <div class="title-panel">Exemplo Básico</div>
 
@@ -32,3 +34,4 @@ function strpos($str, $text) {
 
 echo strpos('Texto genérico para busca', 'busca') . '<br>'; // cai na função strpos desde arquivo
 echo \strpos('Texto genérico para busca', 'busca') . '<br>'; // para pegar a função default do php, é necessário incluir o sinal da raiz
+echo \App\constante . '<br>';

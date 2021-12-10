@@ -145,6 +145,8 @@
               <h3>10. Namespace</h3>
               <ul class="energos">
                   <li><a href="exercises.php?dir=namespace&file=basic">Exemplo Básico</a></li>
+                  <li><a href="exercises.php?dir=namespace&file=sub_namespace">Sub-Namesapces</a></li>
+                  <li><a href="exercises.php?dir=namespace&file=use_as">Use/As</a></li>
               </ul>
             </div>
             <div class="module energos">
@@ -154,6 +156,12 @@
                 <li><a href="exercises.php?dir=section&file=basic_section_change">Básico de alterar sessões</a></li>
               </ul>
             </div>
+              <div class="module energos">
+                  <h3>11. BD</h3>
+                  <ul class="energos">
+                      <li><a href="exercises.php?dir=db&file=criar_banco">Básico de sessões</a></li>
+                  </ul>
+              </div>
           </nav>
         </div>
       </main>
