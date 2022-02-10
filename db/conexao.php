@@ -1,9 +1,9 @@
 <?php
 
 function novaConexao($banco = 'curso_php') {
-	$servidor = '';
-	$usuario = '';
-	$senha = '';
+	$servidor = '127.0.0.1:3306';
+	$usuario = 'root';
+	$senha = '2429';
 
 	$conexao = new mysqli($servidor, $usuario, $senha, $banco);
 

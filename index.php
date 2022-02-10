@@ -159,7 +159,13 @@
               <div class="module energos">
                   <h3>11. BD</h3>
                   <ul class="energos">
-                      <li><a href="exercises.php?dir=db&file=criar_banco">Básico de sessões</a></li>
+                      <li><a href="exercises.php?dir=db&file=criar_banco">Criar Banco</a></li>
+                      <li><a href="exercises.php?dir=db&file=criar_tabela">Criar Tabela</a></li>
+                      <li><a href="exercises.php?dir=db&file=inserir_1">Inserir Registro #01</a></li>
+                      <li><a href="exercises.php?dir=db&file=consultar">Consultar BD</a></li>
+                      <li><a href="exercises.php?dir=db&file=excluir_1">Excluir Registro #01</a></li>
+                      <li><a href="exercises.php?dir=db&file=excluir_2">Excluir Registro #02</a></li>
+                      <li><a href="exercises.php?dir=db&file=inserir_2">Inserir Registro #02</a></li>
                   </ul>
               </div>
           </nav>
